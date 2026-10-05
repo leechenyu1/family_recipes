@@ -3,5 +3,5 @@
 Set of recipes
 
 * pizzas(TODO)
-* sauce(TODO)
+* sauces(TODO)
 * spraeds(TODO)
